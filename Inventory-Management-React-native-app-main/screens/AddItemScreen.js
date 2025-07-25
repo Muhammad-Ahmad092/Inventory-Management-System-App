@@ -16,7 +16,7 @@
 
 // // Firebase Configuration
 // const firebaseConfig = {
-//   apiKey: "AIzaSyAktu08t0bLiCjwymRCy8G8rqYZF4GbUbU",
+//   apiKey: "",
 //   authDomain: "se-5-project.firebaseapp.com",
 //   projectId: "se-5-project",
 //   storageBucket: "se-5-project.firebasestorage.app",
